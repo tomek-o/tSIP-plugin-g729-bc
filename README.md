@@ -1,4 +1,6 @@
 # tSIP-plugin-g729-bc
+[http://tomeko.net/software/SIPclient/g729_bc/](http://tomeko.net/software/SIPclient/g729_bc/)
+
 tSIP softphone G.729 codec plugin, based on [bcg729](https://github.com/BelledonneCommunications/bcg729).
 
 Built with Code::Blocks 16 (version matters).
